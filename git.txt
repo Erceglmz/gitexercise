@@ -1,1 +1,2 @@
 initial text of git.txt
+for the second commit
