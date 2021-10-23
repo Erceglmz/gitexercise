@@ -1,2 +1,3 @@
 initial text of git.txt
 for the second commit
+for the third commit that is done from github
